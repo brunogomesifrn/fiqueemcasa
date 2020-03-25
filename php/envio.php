@@ -6,26 +6,34 @@ use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
 // Load Composer's autoloader
-require 'vendor/autoload.php';
+require_once ("../vendor/autoload.php");
 
 // Instantiation and passing `true` enables exceptions
 $nome = $_POST['nome'];
 $mail = new PHPMailer(true);
 
+$nome_recebido = $_POST['nome'];
+$email_recebido = $_POST['email'];
+$assunto_recebido = $_POST['assunto'];
+$mensagem_recebida = $_POST['mensagem'];
 try {
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
     $mail->isSMTP();                                            // Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                    // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
-    $mail->Username   = 'emailremetente@gmail.com';                     // SMTP username
-    $mail->Password   = 'senha';                               // SMTP password
+    $mail->Username   = 'projetoficaemcasa@gmail.com';                     // SMTP username
+    $mail->Password   = 'ficaemcasa1.0';                               // SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
     $mail->Port       = 587;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('emailremetente@gmail.com', 'Nome Remetente');
-    $mail->addAddress('emaildestinatario@gmail.com', 'Nome Destinatário');     // Add a recipient
+    $mail->setFrom($email_recebido, $nome_recebido);
+<<<<<<< HEAD
+    $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto');     // Add a recipient
+=======
+    $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto Fique em Casa');     // Add a recipient
+>>>>>>> 3c22241c12e612d6ce0247fcca093fc1346b3b60
     //$mail->addAddress('ellen@example.com');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
     ///$mail->addCC('cc@example.com');
@@ -37,7 +45,7 @@ try {
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->Subject = 'Assunto do e-mail';
+    $mail->Subject = $assunto_recebido;
     $mail->Body    = 'Esta é a mesagem do e-mail com texto em <b>negrito</b>';
     $mail->AltBody = 'Esta é a mesagem que aparecerá em e-mails que não aceitam html';
 
