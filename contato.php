@@ -157,7 +157,6 @@
                         }
                         
                         ?>
-                        <h2></h2>
                         <br />
                     </div>
                     <div class="col-lg-8">
