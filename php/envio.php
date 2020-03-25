@@ -29,11 +29,9 @@ try {
 
     //Recipients
     $mail->setFrom($email_recebido, $nome_recebido);
-<<<<<<< HEAD
     $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto');     // Add a recipient
-=======
     $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto Fique em Casa');     // Add a recipient
->>>>>>> 3c22241c12e612d6ce0247fcca093fc1346b3b60
+
     //$mail->addAddress('ellen@example.com');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
     ///$mail->addCC('cc@example.com');
