@@ -9,13 +9,17 @@ use PHPMailer\PHPMailer\Exception;
 require_once ("../vendor/autoload.php");
 
 // Instantiation and passing `true` enables exceptions
-$nome = $_POST['nome'];
+//$nome = $_POST['nome'];
 $mail = new PHPMailer(true);
 
 $nome_recebido = $_POST['nome'];
 $email_recebido = $_POST['email'];
+$telefone_recebido = $_POST['telefone'];
 $assunto_recebido = $_POST['assunto'];
-$mensagem_recebida = $_POST['mensagem'];
+
+$mensagem_recebida = "Nome: $nome_recebido <br />E-mail: $email_recebido <br />Telefone: $telefone_recebido <br /><br />Mensagem:<br />".$_POST['mensagem'];
+
+
 try {
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
@@ -29,11 +33,9 @@ try {
 
     //Recipients
     $mail->setFrom($email_recebido, $nome_recebido);
-<<<<<<< HEAD
     $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto');     // Add a recipient
-=======
     $mail->addAddress('projetoficaemcasa@gmail.com', 'Projeto Fique em Casa');     // Add a recipient
->>>>>>> 3c22241c12e612d6ce0247fcca093fc1346b3b60
+
     //$mail->addAddress('ellen@example.com');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
     ///$mail->addCC('cc@example.com');
@@ -46,11 +48,18 @@ try {
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $assunto_recebido;
-    $mail->Body    = 'Esta é a mesagem do e-mail com texto em <b>negrito</b>';
-    $mail->AltBody = 'Esta é a mesagem que aparecerá em e-mails que não aceitam html';
+    $mail->Body    = $mensagem_recebida;
+    $mail->AltBody = $mensagem_recebida;
 
     $mail->send();
-    echo 'Mensagem enviada';
+    //echo 'Mensagem enviada';
+
 } catch (Exception $e) {
-    echo "Mensagem não enviada. Erro: {$mail->ErrorInfo}";
+    //header('Location: ../contato.php?confirmacao=nao');
+    echo("<script>location.href = '../contato.php?confirmacao=nao';</script>");
+    //echo "Mensagem não enviada. Erro: {$mail->ErrorInfo}";
 }
+echo("<script>location.href = '../contato.php?confirmacao=sim';</script>");
+//header('Location: ../contato.php?confirmacao=sim');
+
+?>
