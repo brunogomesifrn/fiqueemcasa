@@ -14,9 +14,10 @@ $mail = new PHPMailer(true);
 
 $nome_recebido = $_POST['nome'];
 $email_recebido = $_POST['email'];
+$telefone_recebido = $_POST['telefone'];
 $assunto_recebido = $_POST['assunto'];
 
-$mensagem_recebida += "Nome: "+$nome_recebido+ "E-mail: $email_recebido\n";
+$mensagem_recebida = "Nome: $nome_recebido\nE-mail: $email_recebido\nTelefone: $telefone_recebido\n";
 
 $mensagem_recebida += $_POST['mensagem'];
 
