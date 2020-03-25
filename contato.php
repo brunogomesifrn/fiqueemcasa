@@ -148,7 +148,7 @@
                         <p>Envie dicas e sugestões para a nossa equipe!</p>
                         <?php
 
-                        if (empty($_GET['confirmacao'])){
+                        if (!empty($_GET['confirmacao'])){
                             if ($_GET['confirmacao'] == 'sim') {
                                 echo "<p>Mensagem enviada com sucesso!</p>";
                             }else{
