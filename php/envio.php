@@ -17,9 +17,7 @@ $email_recebido = $_POST['email'];
 $telefone_recebido = $_POST['telefone'];
 $assunto_recebido = $_POST['assunto'];
 
-//$mensagem_recebida = "Nome: $nome_recebido\nE-mail: $email_recebido\nTelefone: $telefone_recebido\n";
-
-$mensagem_recebida = $_POST['mensagem'];
+$mensagem_recebida = "Nome: $nome_recebido <br />E-mail: $email_recebido <br />Telefone: $telefone_recebido <br /><br />Mensagem:<br />".$_POST['mensagem'];
 
 
 try {
