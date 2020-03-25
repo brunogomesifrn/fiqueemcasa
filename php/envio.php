@@ -44,8 +44,8 @@ try {
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $assunto_recebido;
-    $mail->Body    = 'Esta é a mesagem do e-mail com texto em <b>negrito</b>';
-    $mail->AltBody = 'Esta é a mesagem que aparecerá em e-mails que não aceitam html';
+    $mail->Body    = $mensagem_recebida;
+    $mail->AltBody = $mensagem_recebida;
 
     $mail->send();
     echo 'Mensagem enviada';
