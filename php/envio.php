@@ -9,6 +9,7 @@ use PHPMailer\PHPMailer\Exception;
 require 'vendor/autoload.php';
 
 // Instantiation and passing `true` enables exceptions
+$nome = $_POST['nome'];
 $mail = new PHPMailer(true);
 
 try {
