@@ -134,7 +134,7 @@
             <div class="row">
                     <div class="col-12">
                         <h2 class="contact-title">Contato</h2>
-                        <p>Envie sugestões, novos conteúdos......</p>
+                        <p>Envie sugestões, novos conteúdos....</p>
                         <br />
                     </div>
                     <div class="col-lg-8">
@@ -155,7 +155,12 @@
                                         <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">
                                     </div>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="phone" id="phone" type="phone" onkeyup="mascara( this, mtel );" maxlength="15" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone number'" placeholder="Phone">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
                                     <div class="form-group">
                                         <input class="form-control" name="subject" id="subject" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Subject'" placeholder="Enter Subject">
                                     </div>
@@ -304,6 +309,24 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     $(document).ready(function() {
     $('.js-example-basic-multiple').select2();
 });
+    </script>
+
+    <script type="text/javascript">
+        /* Máscaras ER */
+        function mascara(o,f){
+            v_obj=o
+            v_fun=f
+            setTimeout("execmascara()",1)
+        }
+        function execmascara(){
+            v_obj.value=v_fun(v_obj.value)
+        }
+        function mtel(v){
+        v=v.replace(/\D/g,"");             //Remove tudo o que não é dígito
+        v=v.replace(/^(\d{2})(\d)/g,"($1) $2"); //Coloca parênteses em volta dos dois primeiros dígitos
+        v=v.replace(/(\d)(\d{4})$/,"$1-$2");    //Coloca hífen entre o quarto e o quinto dígitos
+        return v;
+        }
     </script>
 </body>
 
