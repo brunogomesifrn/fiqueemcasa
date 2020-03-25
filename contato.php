@@ -149,7 +149,7 @@
                         <?php
 
                         if (empty($_GET['confirmacao'])){
-                            if ($_GET['confirmacao'] == 'sim')) {
+                            if ($_GET['confirmacao'] == 'sim') {
                                 echo "<p>Mensagem enviada com sucesso!</p>";
                             }else{
                                 echo "<p>Ocorreu algum problema. Tente novamente</p>";
