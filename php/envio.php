@@ -52,10 +52,14 @@ try {
     $mail->AltBody = $mensagem_recebida;
 
     $mail->send();
-    header('Location: ../contato.php?confirmacao=sim');
     //echo 'Mensagem enviada';
 
 } catch (Exception $e) {
-    header('Location: ../contato.php?confirmacao=nao');
+    //header('Location: ../contato.php?confirmacao=nao');
+    echo("<script>location.href = '../contato.php?confirmacao=nao';</script>");
     //echo "Mensagem não enviada. Erro: {$mail->ErrorInfo}";
 }
+echo("<script>location.href = '../contato.php?confirmacao=sim';</script>");
+//header('Location: ../contato.php?confirmacao=sim');
+
+?>

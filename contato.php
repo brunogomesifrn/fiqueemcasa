@@ -146,16 +146,17 @@
                     <div class="col-12">
                         <h2 class="contact-title">Contato</h2>
                         <p>Envie dicas e sugestões para a nossa equipe!</p>
+
                         <?php
 
                         if (!empty($_GET['confirmacao'])){
                             if ($_GET['confirmacao'] == 'sim') {
-                                echo "<p>Mensagem enviada com sucesso!</p>";
+                                echo "<div class='alert alert-success' role='alert'>Mensagem enviada com sucesso!</div>";
                             }else{
-                                echo "<p>Ocorreu algum problema. Tente novamente</p>";
+                                echo "<div class='alert alert-danger' role='alert'>Ocorreu algum problema. Tente novamente!</div>";
                             }
                         }
-                        
+
                         ?>
                         <br />
                     </div>
