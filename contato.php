@@ -2,16 +2,15 @@
 <html class="no-js" lang="zxx">
 
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161839879-1"></script>
-	<script>
-  		window.dataLayer = window.dataLayer || [];
-  		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161839879-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  		gtag('config', 'UA-161839879-1');
-	</script>
-
+        gtag('config', 'UA-161839879-1');
+    </script>
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -95,7 +94,7 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.html"> Home</a></li>
+                                        <li><a class="active" href="index.html"> Home</a></li>
                                         <li><a href="#projeto"> O Projeto</a></li>
                                         <li><a href="#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
@@ -110,6 +109,13 @@
                                                 <li><a href="videos.html">Vídeos</a></li>
                                             </ul>
                                         </li>
+                                        <!--<li><a href="#">pages <i class="ti-angle-down"></i></a>
+                                            <ul class="submenu">
+                                                <li><a href="elements.html">elements</a></li>
+                                                <li><a href="about.html">about</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="Doctors.html">Doctors</a></li>-->
                                         <li><a href="contato.php">Contato</a></li>
                                     </ul>
                                 </nav>
@@ -118,6 +124,7 @@
                         <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                             <div class="Appointment">
                                 <div class="book_btn d-none d-lg-block">
+                                    <!--<a class="popup-with-form" href="#test-form">Contribua</a>-->
                                     <a href="contato.php">Contribua</a>
                                 </div>
                             </div>
@@ -132,210 +139,67 @@
     </header>
     <!-- header-end -->
     <br />
-    <!-- slider_area_start -->
-    <div class="slider_area">
-        <div class="slider_active owl-carousel">
-            <div class="single_slider  d-flex align-items-center slider_bg_2">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="slider_text ">
-                                <h3><span>Leitura</span> </h3>
-                                <h4>Selecionamos algumas leituras recomendadas para este período!</h4><br />
-                                <a href="leitura.html" class="boxed-btn3">Confira</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single_slider  d-flex align-items-center slider_bg_1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="slider_text ">
-                                <h3><span>Cursos</span> </h3>
-                                <h4>Que tal fazer um curso on-line para aprimorar seus conhecimentos?</h4><br />
-                                <a href="cursos.html" class="boxed-btn3">Lista de Cursos</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </div>
-    <!-- slider_area_end -->
-
-
-    <!-- welcome_docmed_area_start -->
-    <div class="welcome_docmed_area" id="projeto">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6">
-                    <div class="welcome_thumb">
-                        <div class="thumb_1">
-                            <img src="img/about/2.png" alt="">
-                        </div>
-                        <div class="thumb_2">
-                            <img src="img/about/1.png" alt="">
-                        </div>
-                        
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6">
-                    <div class="welcome_docmed_info">
-                        <h3>Fique em Casa</h3>
-                        <p>Diante da quantidade de notícias falsas compartilhadas nas mídias sociais, o projeto Fique em Casa tem como objetivo disponibilizar
-                        informações verdadeiras e verificadas sobre o que as pessoas podem acessar e fazer durante o período de quarentena. Serviços:</p>
-                        <ul>
-                            <li> <i class="flaticon-right"></i> Cursos </li>
-                            <li> <i class="flaticon-right"></i> Deliveries </li>
-                            <li> <i class="flaticon-right"></i> Diversos </li>
-                            <li> <i class="flaticon-right"></i> Jogos </li>
-                            <li> <i class="flaticon-right"></i> Leitura </li>
-                            <li> <i class="flaticon-right"></i> Links </li>
-                            <li> <i class="flaticon-right"></i> TV e Streaming </li>
-                            <li> <i class="flaticon-right"></i> Telefones </li>
-                            <li> <i class="flaticon-right"></i> Vídeos </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- welcome_docmed_area_end -->
-
-    <!-- offers_area_start -->
-    <div class="our_department_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-55">
-                        <h3>Lista de Serviços</h3>
-                        <p>Selecionamos os melhores serviços para lhe ajudar neste período: </p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="servicos">
-                
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="cursos.html">
-                                <img src="img/banner/opcursos.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="cursos.html">Cursos</a></h3>
-                            <!--<p>Esteem spirit temper too say adieus who direct esteem.</p>
-                            <a href="#" class="learn_more">Learn More</a>-->
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="deliveries.html">
-                                <img src="img/banner/opdeliveries.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="deliveries.html">Deliveries</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="diversos.html">
-                                <img src="img/banner/opdiversos.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="diversos.html">Diversos</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="jogos.html">
-                                <img src="img/banner/opjogos.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="jogos.html">Jogos</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="leitura.html">
-                                <img src="img/banner/opleitura.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="leitura.html">Leitura</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="links.html">
-                                <img src="img/banner/oplinks.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="links.html">Links</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="tv.html">
-                                <img src="img/banner/optv.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="tv.html">TV e Streaming</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="telefones.html">
-                                <img src="img/banner/optelefones.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="telefones.html">Telefones</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="videos.html">
-                                <img src="img/banner/opvideos.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="videos.html">Vídeos</a></h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
     
-    <!-- offers_area_end -->
+    <section class="contact-section">
+        <div class="container">
+            <div class="row">
+                    <div class="col-12">
+                        <h2 class="contact-title">Contato</h2>
+                        <p>Envie dicas e sugestões para a nossa equipe!</p>
+                        <?php
+                        if ((empty($_GET['confirmacao']))){
+                            if ($_GET['confirmacao']) == 'sim' {
+                                echo "<p>Enviada com sucesso</p>";
+                            }else{
+                                echo "<p>Ocorreu algum problema. Tente novamente</p>";
+                            }
+                            
+                        }
+                        
+                        ?>
+                        <h2></h2>
+                        <br />
+                    </div>
+                    <div class="col-lg-8">
+                        <form class="form-contact contact_form" action="php/envio.php" method="post" id="contactForm" novalidate="novalidate">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="nome" id="nome" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite seu nome'" placeholder="Digite seu nome">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite o endereço de email'" placeholder="Digite o endereço de email">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="telefone" id="telefone" type="phone" onkeyup="mascara( this, mtel );" maxlength="15" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Digite o telefone'" placeholder="Digite o telefone">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control" name="assunto" id="assunto" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Insira um assunto'" placeholder="Insira um assunto">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-group">
+                                        <textarea class="form-control w-100" name="mensagem" id="mensagem" cols="30" rows="9" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Deixe sua mensagem'" placeholder="Deixe sua mensagem"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group mt-3">
+                                <button type="submit" class="button button-contactForm boxed-btn">Enviar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+
 
 <!-- footer start -->
     <footer class="footer">
@@ -468,6 +332,24 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
     $(document).ready(function() {
     $('.js-example-basic-multiple').select2();
 });
+    </script>
+
+    <script type="text/javascript">
+        /* Máscaras ER */
+        function mascara(o,f){
+            v_obj=o
+            v_fun=f
+            setTimeout("execmascara()",1)
+        }
+        function execmascara(){
+            v_obj.value=v_fun(v_obj.value)
+        }
+        function mtel(v){
+        v=v.replace(/\D/g,"");             //Remove tudo o que não é dígito
+        v=v.replace(/^(\d{2})(\d)/g,"($1) $2"); //Coloca parênteses em volta dos dois primeiros dígitos
+        v=v.replace(/(\d)(\d{4})$/,"$1-$2");    //Coloca hífen entre o quarto e o quinto dígitos
+        return v;
+        }
     </script>
 </body>
 

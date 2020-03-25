@@ -15,7 +15,12 @@ $mail = new PHPMailer(true);
 $nome_recebido = $_POST['nome'];
 $email_recebido = $_POST['email'];
 $assunto_recebido = $_POST['assunto'];
-$mensagem_recebida = $_POST['mensagem'];
+
+$mensagem_recebida += "Nome: "+$nome_recebido+ "E-mail: $email_recebido\n";
+
+$mensagem_recebida += $_POST['mensagem'];
+
+
 try {
     //Server settings
     $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      // Enable verbose debug output
@@ -48,7 +53,10 @@ try {
     $mail->AltBody = $mensagem_recebida;
 
     $mail->send();
-    echo 'Mensagem enviada';
+    header('Location: ../contato.php?confirmacao=sim');
+    //echo 'Mensagem enviada';
+
 } catch (Exception $e) {
-    echo "Mensagem não enviada. Erro: {$mail->ErrorInfo}";
+    header('Location: ../contato.php?confirmacao=nao');
+    //echo "Mensagem não enviada. Erro: {$mail->ErrorInfo}";
 }
