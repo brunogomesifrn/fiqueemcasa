@@ -148,8 +148,8 @@
                         <p>Envie dicas e sugestões para a nossa equipe!</p>
                         <?php
                         if ((empty($_GET['confirmacao']))){
-                            if ($_GET['confirmacao']) == 'sim' {
-                                echo "<p>Enviada com sucesso</p>";
+                            if ($_GET['confirmacao']) == 'sim')) {
+                                echo "<p>Mensagem enviada com sucesso!</p>";
                             }else{
                                 echo "<p>Ocorreu algum problema. Tente novamente</p>";
                             }
