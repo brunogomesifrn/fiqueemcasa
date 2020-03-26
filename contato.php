@@ -14,7 +14,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Projeto Fique em Casa - IFRN</title>
+    <title>Fique em Casa</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -38,10 +38,10 @@
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
 
     <link rel="shortcut icon" href="img/favicon.png">
-    <meta name="description" content="Projeto Fique em Casa">
-    <meta property="og:title" content="Projeto Fique em Casa" />
+    <meta name="description" content="Fique em Casa">
+    <meta property="og:title" content="Fique em Casa" />
     <meta property="og:url" content="https://fiqueemcasa.nic.ifrn.edu.br" />
-    <meta property="og:description" content="Projeto do IFRN - Campus Canguaretama">
+    <meta property="og:description" content="Dicas, serviços e telefones úteis para as pessoas que continuam em quarentena na atual pandemia.">
     <meta property="og:image" content="img/midias.png">
     <meta property="og:type" content="website" />
 </head>
