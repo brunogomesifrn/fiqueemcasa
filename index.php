@@ -103,7 +103,18 @@
             </div>
 
             <div class="row" id="servicos">
-                
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="cartilhas.php">
+                                <img src="img/banner/opdiversos.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="diversos.php">Cartilhas</a></h3>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
                         <div class="department_thumb">
@@ -128,18 +139,6 @@
                         </div>
                         <div class="department_content">
                             <h3><a href="deliveries.php">Deliveries</a></h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="diversos.php">
-                                <img src="img/banner/opdiversos.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="diversos.php">Diversos</a></h3>
                         </div>
                     </div>
                 </div>

@@ -17,16 +17,59 @@
  include 'menu_sup.php';
 
 ?>
-    
-    <div class="whole-wrap">
-        <div class="container box_1170">
-            <div class="section-top-border">
-                <h3 class="mb-30">Diversos</h3>
-                <p>Em breve. <a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
+
+
+    <!-- offers_area_start -->
+    <div class="our_department_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-55">
+                        <h2>Cartilhas</h2>
+                        <p><a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row" id="servicos">
+                
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" target="_blank">
+                                <img src="img/servicos/cartilha_delivery.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" target="_blank">Orientações para Serviço de Delivery</a></h3>
+                            <p>O Departamento de Nutrição (DNUT), do Centro de Ciências da Saúde (CCS/UFRN), disponibilizou uma cartilha cartilha com orientações nutricionais</p>
+                            <a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" target="_blank">
+                                <img src="img/servicos/cartilha_nutricionais.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" target="_blank">Orientações Nutricionais</a></h3>
+                            <p>O Departamento de Nutrição (DNUT), do Centro de Ciências da Saúde (CCS/UFRN), disponibilizou uma cartilha com orientações básicas sobre delivery</p>
+                            <a href="https://drive.google.com/file/d/1FwjZj-DnRHYd90ysIv0ab5nKcBlxLH7s/view?usp=sharing" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                
+
             </div>
         </div>
     </div>
-
 
 <!-- footer start -->
     <footer class="footer">

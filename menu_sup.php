@@ -69,23 +69,22 @@
             <div id="sticky-header" class="main-header-area">
                 <div class="container">
                     <div class="row align-items-center">
-                        <div class="col-xl-3 col-lg-2">
+                        <div class="col-xl-4 col-lg-3">
                             <div class="logo">
                                 <a href="index.php">
                                     <img src="img/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-lg-7">
+                        <div class="col-xl-5 col-lg-6">
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="index.php"> Home</a></li>
-                                        <li><a href="sars">Sars-Cov-2</a></li>
-                                        <li><a href="sars">Orientações do IFRN</a></li>
+                                        <li><a href="sars.php">Sars-Cov-2</a></li>
+                                        <li><a href="orientacoes.php">Orientações IFRN</a></li>
                                         <li><a href="index.php#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
-                                                <li><a href="diversos.php">Cartilhas</a></li>
+                                                <li><a href="cartilhas.php">Cartilhas</a></li>
                                                 <li><a href="cursos.php">Cursos</a></li>
                                                 <li><a href="deliveries.php">Deliveries</a></li>
                                                 <li><a href="jogos.php">Jogos</a></li>
