@@ -81,12 +81,13 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="index.php"> Home</a></li>
-                                        <li><a href="index.php#projeto"> O Projeto</a></li>
-                                        <li><a href="#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
+                                        <li><a href="sars">Sars-Cov-2</a></li>
+                                        <li><a href="sars">Orientações do IFRN</a></li>
+                                        <li><a href="index.php#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
+                                                <li><a href="diversos.php">Cartilhas</a></li>
                                                 <li><a href="cursos.php">Cursos</a></li>
                                                 <li><a href="deliveries.php">Deliveries</a></li>
-                                                <li><a href="diversos.php">Diversos</a></li>
                                                 <li><a href="jogos.php">Jogos</a></li>
                                                 <li><a href="leitura.php">Leitura</a></li>
                                                 <li><a href="links.php">Links</a></li>
