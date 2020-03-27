@@ -25,8 +25,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-55">
-                        <h2>Sars-Cov-2</h2>
-                        <p>Saiba mais sobre o vírus que atinge o mundo em 2020!</p>
+                        <h2>Orientações Oficiais do IFRN</h2>
                         <p><a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
                     </div>
                 </div>
@@ -38,33 +37,17 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
                         <div class="department_thumb">
-                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartilha-Informacoes-Coronavirus.pdf" target="_blank">
-                                <img src="img/servicos/ms_informacoes.png" alt="">
+                            <a href="arquivos/ifrn/orientacoes_aluno_isolamento_lajes.pdf" target="_blank">
+                                <img src="img/servicos/isolamento_lajes.png" alt="">
                             </a>
                         </div>
                         <div class="department_content">
-                            <h3><a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartilha-Informacoes-Coronavirus.pdf" target="_blank">Cartilha - Informações</a></h3>
-                            <p>Material disponibilizado pelo Ministério da Saúde</p>
-                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartilha-Informacoes-Coronavirus.pdf" class="learn_more" target="_blank">Acessar</a>
+                            <h3><a href="arquivos/ifrn/orientacoes_aluno_isolamento_lajes.pdf" target="_blank">Isolamento Social</a></h3>
+                            <p>Material criado pelo IFRN - Campus Lajes com orientações para isolamento social</p>
+                            <a href="arquivos/ifrn/orientacoes_aluno_isolamento_lajes.pdf" class="learn_more" target="_blank">Acessar</a>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Geral-64x46cm.pdf" target="_blank">
-                                <img src="img/servicos/ms_geral.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Geral-64x46cm.pdf" target="_blank">Cartaz - Geral</a></h3>
-                            <p>Material disponibilizado pelo Ministério da Saúde</p>
-                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Geral-64x46cm.pdf" class="learn_more" target="_blank">Acessar</a>
-                        </div>
-                    </div>
-                </div>
-                
 
             </div>
         </div>
