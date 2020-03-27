@@ -43,12 +43,121 @@
                             <h3><a href="https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity">Udemy</a></h3>
                             <p>A Udemy liberou dezenas de cursos gratuitos na área de informática e diversas..</p>
                             <a href="https://www.udemy.com/courses/it-and-software/?price=price-free&sort=popularity" class="learn_more" target="_blank">Acessar</a>
-                        </div>
+                        </div>            
                     </div>
                 </div>
+                <!--  ........................................................................................................ -->
 
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://docs.microsoft.com/pt-br/learn/" target="_blank">
+                                <img src="img/servicos/microsoft.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://docs.microsoft.com/pt-br/learn/">Microsoft</a></h3>
+                            <p>A Microsoft liberou cursos de Windows Server, Virtualização, Windows, Azure e Programação</p>
+                            <a href="https://docs.microsoft.com/pt-br/learn/" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                <!--  ........................................................................................................ -->
 
-            </div>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.ev.org.br/" target="_blank">
+                                <img src="img/servicos/fundacao.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.ev.org.br/">Fundação Bradesco </a></h3>
+                            <p>A Fundação Bradesco liberou cursos de Banco de Dados, Programação, Informática,Office, Sistemas Operacionais e muito mais.</p>
+                            <a href="https://www.ev.org.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                <!--  ........................................................................................................ -->
+                
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="http://www.brasilmaisdigital.org.br/" target="_blank">
+                                <img src="img/servicos/brasil.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="http://www.brasilmaisdigital.org.br/">Brasil mais Digital</a></h3>
+                            <p>O Basil mais Digital liberou cursos de Softwares, Sistemas Operacionais, Redes, Programação (Java, Cobol,.NET).</p>
+                            <a href="http://www.brasilmaisdigital.org.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+            	</div>
+                <!--  ........................................................................................................ -->
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/fundamentos-da-gestao-de-ti-1" target="_blank">
+                                <img src="img/servicos/ti.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/fundamentos-da-gestao-de-ti-1">Fundamentos da Gestão de TI</a></h3>
+                            <p>A Fundamentos da Gestão de TI liberou cursos de Fundamentos da Gestão de TI</p>
+                            <a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/fundamentos-da-gestao-de-ti-1" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+            	</div>
+                <!--  ........................................................................................................ -->
+                
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://freecourses.github.io/category/all/" target="_blank">
+                                <img src="img/servicos/free.jpeg" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://freecourses.github.io/category/all/">Free Cursos</a></h3>
+                            <p>O Free Cursos liberou cursos diversos em TI e Programação</p>
+                            <a href="https://freecourses.github.io/category/all/" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+            	</div>
+                <!--  ........................................................................................................ -->
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://rocketseat.com.br/" target="_blank">
+                                <img src="img/servicos/rock.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://rocketseat.com.br/">Rocketseat</a></h3>
+                            <p>A Rocketseat liberou cursos de programação diversas (Javascript, NodeJS, ReacJS, React Native)</p>
+                            <a href="https://rocketseat.com.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+            	</div>
+                <!--  ........................................................................................................ -->
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=79" target="_blank">
+                                <img src="img/servicos/if.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=79">IFRS</a></h3>
+                            <p>O IFRS liberou cursos de Banco de dados e Programação</p>
+                            <a href="https://moodle.ifrs.edu.br/course/index.php?categoryid=79" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+            	</div>
         </div>
     </div>
 
