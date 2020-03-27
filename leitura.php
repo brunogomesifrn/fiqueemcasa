@@ -77,6 +77,134 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://editora.ufsc.br/estante-aberta/" target="_blank">
+                                <img src="img/servicos/ufsc.png" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://editora.ufsc.br/estante-aberta/">Editora UFSC</a></h3>
+                            <p>A UFSC disponibilizou 57 obras literárias digitais para download gratuito.
+                            </p>
+                            <a href="https://editora.ufsc.br/estante-aberta/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.casadosmundos.com.br/" target="_blank">
+                                <img src="img/servicos/leya.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.casadosmundos.com.br/">LeYa</a></h3>
+                            <p>A editora LeYa está oferecendo gratuitamente, por 48 horas cada, grandes livros em versões digitais.
+                            </p>
+                            <a href="https://www.casadosmundos.com.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.amazon.com.br/b?ie=UTF8&node=15088497011" target="_blank">
+                                <img src="img/servicos/harper.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.amazon.com.br/b?ie=UTF8&node=15088497011">Harper Collins</a></h3>
+                            <p>A Harper Collins disponibilizou vários títulos para download gratuito na Amazon.
+                            </p>
+                            <a href="https://www.amazon.com.br/b?ie=UTF8&node=15088497011" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.instagram.com/p/B-A56wSJyug/" target="_blank">
+                                <img src="img/servicos/rocco.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.instagram.com/p/B-A56wSJyug/">Rocco</a></h3>
+                            <p>A Rocco liberou títulos gratuitos nas lojas de e-book, consulte as redes socias da editora para baixá-los.
+                            </p>
+                            <a href="https://www.instagram.com/p/B-A56wSJyug/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.euleioparaumacrianca.com.br/" target="_blank">
+                                <img src="img/servicos/itau.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.euleioparaumacrianca.com.br/">Kidsbook - Itaú Criança</a></h3>
+                            <p>A plataforma online do banco reúne atualmente 13 livros infantis, todos disponíveis gratuitamente.
+                            </p>
+                            <a href="https://www.euleioparaumacrianca.com.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="http://www.wendygamestudio.com.br/coronaconbr/" target="_blank">
+                                <img src="img/servicos/hqs.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="http://www.wendygamestudio.com.br/coronaconbr/">Quadrinhos para a quarentena</a></h3>
+                            <p>Um grupo de quadrinistas liberou em um site HQs nacionais para leitura e download gratuitamente.
+                            </p>
+                            <a href="http://www.wendygamestudio.com.br/coronaconbr/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://forbes.com.br/colunas/2020/03/forbes-disponibiliza-edicoes-online-de-graca/" target="_blank">
+                                <img src="img/servicos/forbes.png" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href=https://forbes.com.br/colunas/2020/03/forbes-disponibiliza-edicoes-online-de-graca/">Forbes</a></h3>
+                            <p>O aplicativo Forbes Brasil Prime liberou o acesso para algumas das principais edições da revista Forbes.
+                            </p>
+                            <a href="https://forbes.com.br/colunas/2020/03/forbes-disponibiliza-edicoes-online-de-graca/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://editoramol.com.br/blog/80-esta-com-criancas-em-casa-durante-a-quarentena--baixe-nossos-e-books-de-graca-" target="_blank">
+                                <img src="img/servicos/mol.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://editoramol.com.br/blog/80-esta-com-criancas-em-casa-durante-a-quarentena--baixe-nossos-e-books-de-graca-">Editora Mol</a></h3>
+                            <p>A Editora Mol liberou seus e-books de forma gratuita para pais que estão com crianças em casa.
+                            </p>
+                            <a href="https://editoramol.com.br/blog/80-esta-com-criancas-em-casa-durante-a-quarentena--baixe-nossos-e-books-de-graca-" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
 
 
             </div>
