@@ -65,6 +65,95 @@
                     </div>
                 </div>
                 
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/23/Cartaz-Pais-e-Crian--as.pdf" target="_blank">
+                                <img src="img/servicos/paisecriancas.png" alt="" height="263">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/pdf/2020/marco/23/Cartaz-Pais-e-Crian--as.pdf" target="_blank">Cartaz - Pais e Crianças</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/23/Cartaz-Pais-e-Crian--as.pdf" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/24/Coronavirus--Isolamento-Domiciliar.pdf" target="_blank">
+                                <img src="img/servicos/isolamento.png" alt="" height="263">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/pdf/2020/marco/24/Coronavirus--Isolamento-Domiciliar.pdf" target="_blank">Cartaz - Isolamento Domiciliar</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/24/Coronavirus--Isolamento-Domiciliar.pdf" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Eventos-64x46cm.pdf" target="_blank">
+                                <img src="img/servicos/eventos.png" alt="" height="295">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Eventos-64x46cm.pdf" target="_blank">Cartaz - Eventos</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Eventos-64x46cm.pdf" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/21/isolamento-30.mp4" target="_blank">
+                                <img src="img/servicos/isolamento-video.png" alt="" height="263">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/mp4/2020/marco/21/isolamento-30.mp4" target="_blank">Vídeo - Isolamento Domiciliar</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/21/isolamento-30.mp4" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/18/Filme-PREVENCAO-30-segundos.mp4" target="_blank">
+                                <img src="img/servicos/filmes.png" alt="" height="263">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/mp4/2020/marco/18/Filme-PREVENCAO-30-segundos.mp4" target="_blank">Filme - Prevenção</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/18/Filme-PREVENCAO-30-segundos.mp4" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/19/Filme-Fake-News-15-segundos.mp4" target="_blank">
+                                <img src="img/servicos/filmes.png" alt="" height="263">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.saude.gov.br/images/mp4/2020/marco/19/Filme-Fake-News-15-segundos.mp4" target="_blank">Filme - Fake News</a></h3>
+                            <p>Material disponibilizado pelo Ministério da Saúde</p>
+                            <a href="https://www.saude.gov.br/images/mp4/2020/marco/19/Filme-Fake-News-15-segundos.mp4" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
