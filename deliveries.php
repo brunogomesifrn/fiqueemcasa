@@ -34,7 +34,7 @@
                   <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-2" role="tab" aria-controls="nav-contact" aria-selected="false">Montanhas/RN</a>
                   <a class="nav-item nav-link " id="nav-home-tab" data-toggle="tab" href="#nav-3" role="tab" aria-controls="nav-home" aria-selected="false">Natal/RN</a>
                   <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-4" role="tab" aria-controls="nav-contact" aria-selected="false">Pedro Velho/RN</a>
-                  <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-5" role="tab" aria-controls="nav-profile" aria-selected="false">São de Mipibú/RN</a>
+                  <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-5" role="tab" aria-controls="nav-profile" aria-selected="false">São José de Mipibú/RN</a>
                   <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-6" role="tab" aria-controls="nav-contact" aria-selected="false">Tibau do Sul & Pipa - RN</a>
 
                 </div>
@@ -436,7 +436,7 @@
                       <th scope="row">Acaba em Pizza</th>
                       <td><a href="tel:+55-84-98752-6394" class="genric-btn info radius">(84) 98752-6394</a></td>
                       <td>Pizzaria</td>
-                      <td>São de Mipibú/RN</td>
+                      <td>São José de Mipibú/RN</td>
                     </tr>
                      <tr>
                      <th scope="row">Cocar Açaí e Pizzaria</th>
