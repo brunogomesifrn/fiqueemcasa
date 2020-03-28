@@ -36,7 +36,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://olhardigital.com.br/noticia/streaming-do-telecine-libera-mais-de-2-mil-filmes-por-30-dias-gratis/98410" target="_blank">
-                                <img src="img/servicos/telecine.png" alt="">
+                                <img src="img/servicos/telecine.png" height="263"alt="">
                             </a>
                         </div>
                         <div class="department_content">
@@ -47,6 +47,35 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://exame.abril.com.br/estilo-de-vida/globoplay-libera-filmes-e-series-gratis-por-30-dias/" target="_blank">
+                                <img src="img/servicos/globoplay.png" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://exame.abril.com.br/estilo-de-vida/globoplay-libera-filmes-e-series-gratis-por-30-dias/" target="_blank">Globoplay</a></h3>
+                            <p>A Globoplay libera filmes e séries grátis.</p>
+                            <a href="https://exame.abril.com.br/estilo-de-vida/globoplay-libera-filmes-e-series-gratis-por-30-dias/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www1.folha.uol.com.br/ilustrada/2020/03/amazon-prime-video-disponibiliza-filmes-e-series-infantis-gratuitamente-durante-pandemia.shtml" target="_blank">
+                                <img src="img/servicos/amazonprime.png"  height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www1.folha.uol.com.br/ilustrada/2020/03/amazon-prime-video-disponibiliza-filmes-e-series-infantis-gratuitamente-durante-pandemia.shtml" target="_blank">Amazon Prime</a></h3>
+                            <p>Amazon libera acesso a filmes e séries infantis.</p>
+                            <a href="https://www1.folha.uol.com.br/ilustrada/2020/03/amazon-prime-video-disponibiliza-filmes-e-series-infantis-gratuitamente-durante-pandemia.shtml" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>

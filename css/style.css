@@ -167,6 +167,12 @@ label {
   opacity: 1;
 }
 
+.option{
+  color: #cccccc;
+  font-size: 14px;
+  opacity: 1;
+}
+
 /* line 112, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/theme-default.scss */
 h3 {
   font-size: 24px;
