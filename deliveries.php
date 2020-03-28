@@ -169,6 +169,18 @@
                       <td>Natal/RN</td>
                     </tr>
                     <tr>
+                      <th scope="row">Farmácia Pague Menos</th>
+                      <td><a href="tel:+55-84-33273-3190" class="genric-btn info radius">(84) 3273-3190</a></td>
+                      <td>Farmácia</td>
+                      <td>São José de Mipibú/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Farmácia Santa Terezinha</th>
+                      <td><a href="tel:+55-84-3247-2351" class="genric-btn info radius">(84) 3247-2351</a></td>
+                      <td>Farmácia</td>
+                      <td>Pedro Velho/RN</td>
+                    </tr>
+                    <tr>
                       <th scope="row">Feira em casa Natal</th>
                       <td><a href="tel:+55-84-99955-0119" class="genric-btn info radius">(84) 99955-0119</a></td>
                       <td>Serviço delivery de frutas, verduras, carnes, frangos, pratos congelados etc.</td>
@@ -187,6 +199,18 @@
                       <td>Natal/RN</td>
                     </tr>
                     <tr>
+                      <th scope="row">Gelateria do Tida</th>
+                      <td><a href="tel:+55-84-98871-6036" class="genric-btn info radius">(84) 98871-6036</a></td>
+                      <td>Gelatos italianos e sorvetes</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                     <tr>
+                      <th scope="row">Hellen Modas</th>
+                      <td><a href="tel:+55-84-98748-9939" class="genric-btn info radius">(84) 98748-9939</a></td>
+                      <td>Vestuário masculino e feminino</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                    <tr>
                       <th scope="row">Horta Orgânica Capim Macio</th>
                       <td><a href="tel:+55-84-99987-6570" class="genric-btn info radius">(84) 99987-6570</a></td>
                       <td>Legumes e vegetais orgânicos</td>
@@ -197,6 +221,12 @@
                       <td><a href="tel:+55-84-99832-2683" class="genric-btn info radius">(84) 99832-2683</a></td>
                       <td>Delivery de frutas e verduras, que atende a varejo</td>
                       <td>Natal/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Juliu’s Food</th>
+                      <td><a href="tel:+55-84-98155-5540" class="genric-btn info radius">(84) 98155-5540</a></td>
+                      <td>Pizzaria e Hamburgueria</td>
+                      <td>Pedro Velho/RN</td>
                     </tr>
                     <tr>
                       <th scope="row">Kitanda do Mazinho</th>
@@ -212,6 +242,41 @@
                       <td>Natal/RN</td>
                     </tr>
                     <tr>
+                      <th scope="row">Lig - Peg Pizzaria</th>
+                      <td><a href="tel:+55-84-99600-6663" class="genric-btn info radius">(84) 99600-6663</a>
+                      </td>
+                      <td>Pizzaria</td>
+                      <td>Pipa/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Marvislanches</th>
+                      <td><a href="tel:+55-84-98621-9336" class="genric-btn info radius">(84) 98621-9336</a>
+                      </td>
+                      <td>Lanchonete</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Megafarma</th>
+                      <td><a href="tel:+55-84-3243-2003" class="genric-btn info radius">(84) 3243-2003</a>
+                      </td>
+                      <td>Farmácia</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">MeGusta Hamburgueria</th>
+                      <td><a href="tel:+55-84-99984-2558" class="genric-btn info radius">(84) 99984-2558</a>
+                      </td>
+                      <td>Hamburgueria artesanal</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Mercadinho Pai & Filho</th>
+                      <td><a href="tel:+55-84-99411-5756" class="genric-btn info radius">(84) 99411-5756</a>
+                      </td>
+                      <td>Mercado Varejista</td>
+                      <td>Tibau do Sul/RN</td>
+                    </tr>
+                    <tr>
                       <th scope="row">Mercadinho Tia Lila</th>
                       <td><a href="tel:+55-84-99650-1575" class="genric-btn info radius">(84) 99650-1575</a></td>
                       <td>Mercado varejista</td>
@@ -224,10 +289,118 @@
                       <td>Natal/RN</td>
                     </tr>
                     <tr>
+                      <th scope="row">MP Lanches</th>
+                      <td><a href="tel:+55-84-3246-4186" class="genric-btn info radius">(84) 3246-4186</a></td>
+                      <td>Pizzaria e Restaurante</td>
+                      <td>Tibau do Sul/RN</td>
+                    </tr>
+                     <tr>
+                      <th scope="row">Naldo Burguer</th>
+                      <td><a href="tel:+55-84-98602-8874" class="genric-btn info radius">(84) 98602-8874</a></td>
+                      <td>Lanches e Petiscos</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Oba Lanches</th>
+                      <td><a href="tel:+55-84-99129-2562" class="genric-btn info radius">(84) 99129-2562</a></td>
+                      <td>Lanchonete e hamburgueria</td>
+                      <td>São José de Mipibú/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria Altos</th>
+                      <td><a href="tel:+55-84-99100-9427" class="genric-btn info radius">(84) 99100-9427</a></td>
+                      <td>Pizzaria</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria Carioca Delivery</th>
+                      <td><a href="tel:+55-84-99474-5070" class="genric-btn info radius">(84) 99474-5070</a></td>
+                      <td>Pizzaria</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria Cosmopolita</th>
+                      <td><a href="tel:+55-84-99134-2351" class="genric-btn info radius">(84) 99134-2351</a></td>
+                      <td>Pizzaria</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria Delícias Com Amor</th>
+                      <td><a href="tel:+55-84-98784-4097" class="genric-btn info radius">(84) 98784-4097</a></td>
+                      <td>Pizzaria</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria do Cris</th>
+                      <td><a href="tel:+55-84-98701-7591" class="genric-btn info radius">(84) 98701-7591</a></td>
+                      <td>Pizzaria</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                     <tr>
+                      <th scope="row">Pizzaria Mil Delícias</th>
+                      <td><a href="tel:+55-84-3273-2043" class="genric-btn info radius">(84) 3273-2043</a></td>
+                      <td>Pizzaria</td>
+                      <td>São José de Mipibú/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pizzaria Terremoto</th>
+                      <td><a href="tel:+55-84-98153-0961" class="genric-btn info radius">(84) 98153-0961</a></td>
+                      <td>Pizzaria</td>
+                      <td>Pipa/RN</td>
+                    </tr>
+                    <tr>
                       <th scope="row">Pronto Gourmet</th>
                       <td><a href="tel:+55-84-99613-0100" class="genric-btn info radius">(84) 99613-0100</a></td>
                       <td>Pratos prontos congelados</td>
                       <td>Natal/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Recanto do Açaí</th>
+                      <td><a href="tel:+55-84-9202-7317" class="genric-btn info radius">(84) 9202-7317</a></td>
+                      <td>Lanchonete e açaí</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Restaurante Landoá</th>
+                      <td><a href="tel:+55-84-99118-8755" class="genric-btn info radius">(84) 99118-8755</a></td>
+                      <td>Restaurante self service</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                      <tr>
+                      <th scope="row">Restaurante Santa Bárbara </th>
+                      <td><a href="tel:+55-84-99176-6941" class="genric-btn info radius">(84) 99176-6941</a></td>
+                      <td>Restaurante</td>
+                      <td>Goianinha/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Supermercado BCP</th>
+                      <td><a href="tel:+55-84-98124-1614" class="genric-btn info radius">(84) 98124-1614</a></td>
+                      <td>Mercado Varejista</td>
+                      <td>Pedro Velho/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Supermercado Laurentino</th>
+                      <td><a href="tel:+55-84-98726-5210" class="genric-btn info radius">(84) 98726-5210</a></td>
+                      <td>Mercado Varejista</td>
+                      <td>Montanhas/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Supermercado Potiguar</th>
+                      <td><a href="tel:+55-84-3247-2305" class="genric-btn info radius">(84) 3247-2305</a></td>
+                      <td>Mercado Varejista</td>
+                      <td>Pedro Velho/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Supermercado São Bernardo</th>
+                      <td><a href="tel:+55-84-98880-8614" class="genric-btn info radius">(84) 98880-8614</a></td>
+                      <td>Mercado Varejista</td>
+                      <td>Montanhas/RN </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Swell Hamburgueria</th>
+                      <td><a href="tel:+55-84-98880-8614" class="genric-btn info radius">(84) 98880-8614</a></td>
+                      <td>Hambúgueres gourmet e vegetarianos</td>
+                      <td>Tibau do Sul/RN</td>
                     </tr>
                     <tr>
                       <th scope="row">Verinha Frutas e Verduras</th>
