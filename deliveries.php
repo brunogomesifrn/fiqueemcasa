@@ -30,21 +30,81 @@
 
                 <nav>
                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                  <a class="nav-item nav-link active" id="nav-contact-tab" data-toggle="tab" href="#nav-1" role="tab" aria-controls="nav-contact" aria-selected="true">Goianinha/RN</a>
-                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-2" role="tab" aria-controls="nav-contact" aria-selected="false">Montanhas/RN</a>
-                  <a class="nav-item nav-link " id="nav-home-tab" data-toggle="tab" href="#nav-3" role="tab" aria-controls="nav-home" aria-selected="false">Natal/RN</a>
-                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-4" role="tab" aria-controls="nav-contact" aria-selected="false">Pedro Velho/RN</a>
-                  <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-5" role="tab" aria-controls="nav-profile" aria-selected="false">São José de Mipibú/RN</a>
-                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-6" role="tab" aria-controls="nav-contact" aria-selected="false">Tibau do Sul & Pipa - RN</a>
+                  <a class="nav-item nav-link active" id="nav-contact-tab" data-toggle="tab" href="#nav-1" role="tab" aria-controls="nav-contact" aria-selected="true">Canguaretma/RN</a>
+                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-2" role="tab" aria-controls="nav-contact" aria-selected="false">Goianinha/RN</a>
+                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-3" role="tab" aria-controls="nav-contact" aria-selected="false">Montanhas/RN</a>
+                  <a class="nav-item nav-link " id="nav-home-tab" data-toggle="tab" href="#nav-4" role="tab" aria-controls="nav-home" aria-selected="false">Natal/RN</a>
+                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-5" role="tab" aria-controls="nav-contact" aria-selected="false">Pedro Velho/RN</a>
+                  <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-6" role="tab" aria-controls="nav-profile" aria-selected="false">São José de Mipibú/RN</a>
+                  <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-7" role="tab" aria-controls="nav-contact" aria-selected="false">Tibau do Sul & Pipa - RN</a>
 
                 </div>
               </nav>
               <div class="tab-content" id="nav-tabContent">
 
+                <!--Tabela da cidade de Canguaretama/RN-->
+                <div class="tab-pane fade show active" id="nav-1" role="tabpanel" aria-labelledby="nav-home-tab">
 
+                  <table class="table">
+                  <thead>
+                    <tr>
+                      <th scope="col" width="30%">Local</th>
+                      <th scope="col" width="20%">Telefone</th>
+                      <th scope="col" width="30%">Descrição</th>
+                      <th scope="col" width="20%">Cidade</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                  <tr>
+                      <th scope="row">Cirilo's Hotdog</th>
+                      <td><a href="tel:+55-84-99206-6165" class="genric-btn info radius">(84) 99206-6165</a></td>
+                      <td>Lanchonete especializada em hotdog</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Estação Burguer</th>
+                      <td><a href="tel:+55-84-99136-5089" class="genric-btn info radius">(84) 99136-5089</a></td>
+                      <td>Lanchonete especializada hambúrgueres</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                     <tr>
+                      <th scope="row">Fármacia Santo Antônio</th>
+                      <td><a href="tel:+55-84-99179-8792" class="genric-btn info radius">(84) 99179-8792</a></td>
+                      <td>Farmácia</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Idog</th>
+                      <td><a href="tel:+55-84-99707-3937" class="genric-btn info radius">(84) 99707-3937</a></td>
+                      <td>Lanchonete</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Juliu's Food</th>
+                      <td><a href="tel:+55-84-99206-6165" class="genric-btn info radius">(84) 99206-6165</a></td>
+                      <td>Pizzaria</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                     <tr>
+                      <th scope="row">Kouro Multimarcas</th>
+                      <td><a href="tel:+55-84-99133-2453" class="genric-btn info radius">(84) 99133-2453</a></td>
+                      <td>Calçados masculinos e femininos</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">Pink D'luxe</th>
+                      <td><a href="tel:+55-84-99192-8986" class="genric-btn info radius">(84) 99192-8986</a></td>
+                      <td>Vestuário feminino em geral</td>
+                      <td>Canguaretama/RN</td>
+                    </tr>
+                   
+                  </tbody>
+                </table>
+
+                </div>
 
                 <!-- Tabela da cidade de Goianinha/RN -->
-                <div class="tab-pane fade show active" id="nav-1" role="tabpanel" aria-labelledby="nav-home-tab">
+                <div class="tab-pane fade" id="nav-2" role="tabpanel" aria-labelledby="nav-contact-tab">
 
                   <table class="table">
                   <thead>
@@ -114,7 +174,7 @@
 
 
                 <!-- Tabela da cidade de Montanhas/RN -->
-                <div class="tab-pane fade" id="nav-2" role="tabpanel" aria-labelledby="nav-profile-tab">
+                <div class="tab-pane fade" id="nav-3" role="tabpanel" aria-labelledby="nav-contact-tab">
 
                   <table class="table">
                   <thead>
@@ -225,7 +285,7 @@
 
 
                 <!-- Tabela da cidade de Natal/RN -->
-                <div class="tab-pane fade" id="nav-3" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <div class="tab-pane fade" id="nav-4" role="tabpanel" aria-labelledby="nav-home-tab">
                   
                   <table class="table">
                   <thead>
@@ -363,7 +423,7 @@
 
 
                  <!-- Tabela da cidade de Pedro Velho/RN -->
-                <div class="tab-pane fade" id="nav-4" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <div class="tab-pane fade" id="nav-5" role="tabpanel" aria-labelledby="nav-contact-tab">
                   
                   <table class="table">
                   <thead>
@@ -420,7 +480,7 @@
 
 
                 <!-- Tabela da cidade de São de Mipibú/RN -->
-                <div class="tab-pane fade" id="nav-5" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <div class="tab-pane fade" id="nav-6" role="tabpanel" aria-labelledby="nav-contact-tab">
                   
                   <table class="table">
                   <thead>
@@ -467,7 +527,7 @@
                 </div>
 
                 <!-- Tabela da cidade de Tibau do Sul/RN -->
-                <div class="tab-pane fade" id="nav-6" role="tabpanel" aria-labelledby="nav-contact-tab">
+                <div class="tab-pane fade" id="nav-7" role="tabpanel" aria-labelledby="nav-contact-tab">
                   
                   <table class="table">
                   <thead>
