@@ -90,7 +90,7 @@
                          <iframe width="100%" height="200" src="https://www.youtube-nocookie.com/embed/ugPbHiiEjmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                         <div class="department_content">
-                            <h3><a href="https://www.youtube.com/watch?v=ugPbHiiEjmA">Veja como o coronavírus se espalha sem quarentena.</a></h3>
+                            <h3><a href="https://www.youtube.com/watch?v=ugPbHiiEjmA">Coronavírus: o que a Ciência diz sobre o uso da cloroquina contra a covid-19.</a></h3>
                             <p>Neste vídeo, a repórter Camilla Veras Mota explica o que se sabe sobre a eficiência da cloroquina, substância apontada pelo presidente dos EUA, Donald Trump, e pelo brasileiro, Jair Bolsonaro, como importante arma no tratamento de pacientes com coronavírus.</p>
                             <a href="https://www.youtube.com/watch?v=ugPbHiiEjmA" class="learn_more" target="_blank">Acessar</a>
                         </div>            
@@ -100,7 +100,7 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
                         <div class="department_thumb">
-                         <iframe width="100%" height="200" src="https://www.youtube-nocookie.com/embed/ugPbHiiEjmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                         <iframe width="100%" height="200" src="https://www.youtube.com/embed/ihE0L2eEuTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                         <div class="department_content">
                             <h3><a href="https://www.youtube.com/watch?v=ihE0L2eEuTo">Coronavírus: 6 dicas da OMS para manter a saúde mental durante a pandemia.</a></h3>
@@ -109,11 +109,6 @@
                         </div>            
                     </div>
                 </div>
-
-
-
-
-
         </div>
 </div>
 
