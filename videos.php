@@ -17,16 +17,105 @@
  include 'menu_sup.php';
 
 ?>
-    
-    <div class="whole-wrap">
-        <div class="container box_1170">
-            <div class="section-top-border">
-                <h3 class="mb-30">Vídeos</h3>
-                <p>Em breve. <a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
+    <div class="our_department_area">
+    <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="section_title text-center mb-55">
+                        <h2>Vídeos</h2>
+                        <p><a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>
 
+            <div class="row" id="servicos">
+                
+                <!------------------------------------------------------------------------------>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                          <iframe width="100%" height="200" src="https://www.youtube.com/embed/WEMpIQ30srI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=WEMpIQ30srI">Coronavírus: O que a covid-19 faz com o seu corpo</a></h3>
+                            <p>O coronavírus se propaga quando a gente inala gotículas que uma pessoa infectada no espirro ou na tosse. Ou quando a gente toca uma superfície onde essas gotas caíram e colocamos as mãos nos olhos, no nariz ou na boca, por isso a importância de lavar bem as mãos e evitar tocar o rosto. </p>
+                            <a href="https://www.youtube.com/watch?v=WEMpIQ30srI" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                
+                <!------------------------------------------------------------------------------>
+                 <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                          <iframe width="100%" height="200" src="https://www.youtube.com/embed/tcrZd5uxajw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=tcrZd5uxajw">Coronavírus: como diferenciar sintomas da covid-19 de uma gripe, um resfriado ou uma rinite?</a></h3>
+                            <p>As dúvidas sobre os sintomas da doença covid-19 aumentaram com a chegada do outono, mas, na maioria dos casos, eles são semelhantes aos de uma gripe comum. Entenda melhor neste vídeo da repórter Camilla Costa.</p>
+                            <a href="https://www.youtube.com/watch?v=tcrZd5uxajw" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                <!------------------------------------------------------------------------------>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                          <iframe width="100%" height="200" src="https://www.youtube.com/embed/pt_zybIl7M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=pt_zybIl7M4">Coronavírus: Como lavar as mãos para se proteger do covid-19 (e outros vírus).</a></h3>
+                            <p>Para se proteger contra o coronavírus, além de outros vírus e bactérias, uma das soluções mais eficazes também é uma das mais simples: lavar bem as mãos.</p>
+                            <a href="https://www.youtube.com/watch?v=pt_zybIl7M4" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                <!------------------------------------------------------------------------------>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                         <iframe width="100%" height="200" src="https://www.youtube-nocookie.com/embed/tM2Q0bpKV3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=tM2Q0bpKV3Y">Veja como o coronavírus se espalha sem quarentena.</a></h3>
+                            <p>Neste vídeo, a jornalista Silvia Salek, diretora de redação da BBC News Brasil, explica como os esforços para ficar em casa durante a pandemia ajudam a conter a disseminação do vírus.</p>
+                            <a href="https://www.youtube.com/watch?v=tM2Q0bpKV3Y" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+             <!------------------------------------------------------------------------------>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                         <iframe width="100%" height="200" src="https://www.youtube-nocookie.com/embed/ugPbHiiEjmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=ugPbHiiEjmA">Veja como o coronavírus se espalha sem quarentena.</a></h3>
+                            <p>Neste vídeo, a repórter Camilla Veras Mota explica o que se sabe sobre a eficiência da cloroquina, substância apontada pelo presidente dos EUA, Donald Trump, e pelo brasileiro, Jair Bolsonaro, como importante arma no tratamento de pacientes com coronavírus.</p>
+                            <a href="https://www.youtube.com/watch?v=ugPbHiiEjmA" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+                <!------------------------------------------------------------------------------>
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                         <iframe width="100%" height="200" src="https://www.youtube-nocookie.com/embed/ugPbHiiEjmA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.youtube.com/watch?v=ihE0L2eEuTo">Coronavírus: 6 dicas da OMS para manter a saúde mental durante a pandemia.</a></h3>
+                            <p>A crise do coronavírus está gerando estresse na população, segundo apontou a Organização Mundial da Saúde (OMS). As pessoas estão preocupadas com a saúde, com os idosos, com os empregos, a vida social, a economia. No entanto, é importante não deixar de fora os cuidados com a saúde mental. Veja 6 dicas para controlar o estresse durante a pandemia.</p>
+                            <a href="https://www.youtube.com/watch?v=ihE0L2eEuTo" class="learn_more" target="_blank">Acessar</a>
+                        </div>            
+                    </div>
+                </div>
+
+
+
+
+
+        </div>
+</div>
 
 <!-- footer start -->
     <footer class="footer">
