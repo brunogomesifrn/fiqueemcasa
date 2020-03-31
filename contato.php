@@ -61,13 +61,15 @@
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
-                                    <div class="form-group">
-                                        <select class="form-control valid" name="assunto" id="assunto">
+                                    <div class="single-element-widget">
+                                        <div class="default-select">
+                                            <select name="assunto" id="assunto">
                                             <option disabled selected>Escolha um assunto</option>
                                             <option value="1">Dúvidas</option>
                                             <option value="2">Contribuições</option>
                                             <option value="3">Contato</option>
-                                        </select>
+                                            </select>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-12">
