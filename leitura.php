@@ -215,13 +215,11 @@
                         <div class="department_content">
                             <h3><a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=3000&skip=0&ds_titulo&co_autor&no_autor&co_categoria=2&pagina=1&select_action=Submit&co_midia=2&co_obra&co_idioma=1&colunaOrdenar=NU_PAGE_HITS&ordem=desc">Domínio Público</a></h3>
                             <p>Biblioteca digital desenvolvida em software livre - Diversos livros para download gratuitamente.
+                            </p>
                             <a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=3000&skip=0&ds_titulo&co_autor&no_autor&co_categoria=2&pagina=1&select_action=Submit&co_midia=2&co_obra&co_idioma=1&colunaOrdenar=NU_PAGE_HITS&ordem=desc" class="learn_more" target="_blank">Acessar</a>
                         </div>
                     </div>
                 </div>
-
-
-
 
             </div>
         </div>
