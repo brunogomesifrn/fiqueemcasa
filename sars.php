@@ -84,7 +84,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/pdf/2020/marco/24/Coronavirus--Isolamento-Domiciliar.pdf" target="_blank">
-                                <img src="img/servicos/isolamento.png" alt="" height="263">
+                                <img src="img/servicos/isolamento.PNG" alt="" height="263">
                             </a>
                         </div>
                         <div class="department_content">
@@ -99,7 +99,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartaz-Eventos-64x46cm.pdf" target="_blank">
-                                <img src="img/servicos/eventos.png" alt="" height="295">
+                                <img src="img/servicos/eventos.PNG" alt="" height="295">
                             </a>
                         </div>
                         <div class="department_content">
@@ -114,7 +114,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/mp4/2020/marco/21/isolamento-30.mp4" target="_blank">
-                                <img src="img/servicos/isolamento-video.png" alt="" height="263">
+                                <img src="img/servicos/isolamento-video.PNG" alt="" height="263">
                             </a>
                         </div>
                         <div class="department_content">
@@ -129,7 +129,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/mp4/2020/marco/18/Filme-PREVENCAO-30-segundos.mp4" target="_blank">
-                                <img src="img/servicos/filmes.png" alt="" height="263">
+                                <img src="img/servicos/filmes.PNG" alt="" height="263">
                             </a>
                         </div>
                         <div class="department_content">
@@ -144,7 +144,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/mp4/2020/marco/19/Filme-Fake-News-15-segundos.mp4" target="_blank">
-                                <img src="img/servicos/filmes.png" alt="" height="263">
+                                <img src="img/servicos/filmes.PNG" alt="" height="263">
                             </a>
                         </div>
                         <div class="department_content">
