@@ -18,40 +18,31 @@
 
 ?>
     
-    <!-- offers_area_start -->
-    <div class="our_department_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="section_title text-center mb-55">
-                        <h2>Links</h2>
-                        <p><a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row" id="servicos">
+   <section class="sample-text-area">
+        <div class="container box_1170">
+            <h3 class="text-heading">Desenvolvedores:</h3>
+            <p class="sample-text">
+                <ul class="unordered-list">
+                    <li>David Soares Carvalho</li>
+                    <li>João Lucas Silva da Cruz</li>
+                    <li>Douglas Nunes da Silva</li>
+                    <li>Lucylady Chrystina Tavares do Nascimento</li>
+                    <li>Rayssa do Nascimento Silva</li>
+                    <li>Rayane do Nascimento Silva</li>
+                    <li>Gabriely Augusta da Silva Cunh</li>
+                </ul>
+            </p>
+            <br />
+            <h3 class="text-heading">Coordenação:</h3>
+            <p class="sample-text">
+                <ul class="unordered-list">
+                    <li>Bruno Gomes de Araujo</li>
+                </ul>
                 
-
-                <div class="col-xl-4 col-md-6 col-lg-4">
-                    <div class="single_department">
-                        <div class="department_thumb">
-                            <a href="https://covol19.netlify.com/" target="_blank">
-                                <img src="img/servicos/covol19.png" alt="">
-                            </a>
-                        </div>
-                        <div class="department_content">
-                            <h3><a href="https://covol19.netlify.com/" target="_blank">Covol-19</a></h3>
-                            <p>Aplicação idealizada por estudantes da UFERSA para auxílio voluntário a idosos. Também é possível o cadastro de voluntários.</p>
-                            <a href="https://covol19.netlify.com/" class="learn_more" target="_blank">Acessar</a>
-                        </div>
-                    </div>
-                </div>               
-
-            </div>
+            </p>
         </div>
-    </div>
-
+    </section>
+    <!-- End Sample Area --> 
 
 <!-- footer start -->
     <footer class="footer">

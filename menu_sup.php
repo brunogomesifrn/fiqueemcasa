@@ -81,7 +81,7 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a href="sars.php">Sars-Cov-2</a></li>
-                                        <li><a href="orientacoes_ifrn.php">Orientações IFRN</a></li>
+                                        <li><a href="orientacoes_ifrn.php">IFRN</a></li>
                                         <li><a href="index.php#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="cartilhas.php">Cartilhas</a></li>
@@ -95,6 +95,7 @@
                                                 <li><a href="videos.php">Vídeos</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="equipe.php">Equipe</a></li>
                                         <li><a href="contato.php">Contato</a></li>
                                     </ul>
                                 </nav>
