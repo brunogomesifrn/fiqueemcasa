@@ -214,9 +214,89 @@
                         </div>
                         <div class="department_content">
                             <h3><a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=3000&skip=0&ds_titulo&co_autor&no_autor&co_categoria=2&pagina=1&select_action=Submit&co_midia=2&co_obra&co_idioma=1&colunaOrdenar=NU_PAGE_HITS&ordem=desc">Domínio Público</a></h3>
-                            <p>Biblioteca digital desenvolvida em software livre - Diversos livros para download gratuitamente.
+                            <p>Biblioteca digital desenvolvida em software livre - Diversos livros para download gratuito.
                             </p>
                             <a href="http://www.dominiopublico.gov.br/pesquisa/ResultadoPesquisaObraForm.do?first=3000&skip=0&ds_titulo&co_autor&no_autor&co_categoria=2&pagina=1&select_action=Submit&co_midia=2&co_obra&co_idioma=1&colunaOrdenar=NU_PAGE_HITS&ordem=desc" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="http://www.blogdacompanhia.com.br/conteudos/visualizar/E-books-gratuitos-Leia-Em-Casa">
+                                <img src="img/servicos/companhia.png" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="http://www.blogdacompanhia.com.br/conteudos/visualizar/E-books-gratuitos-Leia-Em-Casa">Companhia das Letras</a></h3>
+                            <p>A Companhia das Letras disponibilizou diversos títulos para download gratuito.
+                            </p>
+                            <a href="http://www.blogdacompanhia.com.br/conteudos/visualizar/E-books-gratuitos-Leia-Em-Casa" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.instagram.com/p/B99rzVaBOue/">
+                                <img src="img/servicos/martin.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.instagram.com/p/B99rzVaBOue/">Martin Claret</a></h3>
+                            <p>A editora Martin Claret disponibilizou diversos títulos para download gratuito.
+                            </p>
+                            <a href="https://www.instagram.com/p/B99rzVaBOue/" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://www.instagram.com/p/B99vv_6Jutn/">
+                                <img src="img/servicos/novo_seculo.jpg" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://www.instagram.com/p/B99vv_6Jutn/">Novo Século</a></h3>
+                            <p>A editora Novo Século disponibilizou diversos títulos para download gratuito.
+                            </p>
+                            <a href="https://www.instagram.com/p/B99vv_6Jutn/" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://linktr.ee/brunoalvesenglish">
+                                <img src="img/servicos/bruno_alves.PNG" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://linktr.ee/brunoalvesenglish">Bruno Alves</a></h3>
+                            <p>o professor de inglês Bruno Alves disponibilizou seu E-book para download gratuito.
+                            </p>
+                            <a href="https://linktr.ee/brunoalvesenglish" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="http://www.tenhomaisdiscosqueamigos.com/2020/03/28/turma-da-monica-gibis-liberados/">
+                                <img src="img/servicos/monica.png" height="263" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="http://www.tenhomaisdiscosqueamigos.com/2020/03/28/turma-da-monica-gibis-liberados/">Turma da Mônica</a></h3>
+                            <p>Turma da Mônica libera Gibis Históricos gratuitamente no aplicativo Banca da Mônica.
+                            </p>
+                            <a href="http://www.tenhomaisdiscosqueamigos.com/2020/03/28/turma-da-monica-gibis-liberados/" target="_blank">Acessar</a>
                         </div>
                     </div>
                 </div>

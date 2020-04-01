@@ -69,7 +69,7 @@
                     <div class="single_department">
                         <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/pdf/2020/marco/23/Cartaz-Pais-e-Crian--as.pdf" target="_blank">
-                                <img src="img/servicos/paisecriancas.png" alt="" height="263">
+                                <img src="img/servicos/paisecriancas.PNG" alt="" height="263">
                             </a>
                         </div>
                         <div class="department_content">
