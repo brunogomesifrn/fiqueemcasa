@@ -38,6 +38,22 @@
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
                         <div class="department_thumb">
+                            <a href="https://avasus.ufrn.br/local/avasplugin/cursos/curso.php?id=320" target="_blank">
+                                <img src="img/servicos/avasus_covid.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://avasus.ufrn.br/local/avasplugin/cursos/curso.php?id=320" target="_blank">Curso: COVID-19</a></h3>
+                            <p>Curso sobre o COVID-19, o novo cornoavírus, disponibilizado pelo LAIS/UFRN em parceria com a Organização Pan-Americana de Saúde (OPAS) na plataforma AVASUS.</p>
+                            <a href="https://avasus.ufrn.br/local/avasplugin/cursos/curso.php?id=320" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
                             <a href="https://www.saude.gov.br/images/pdf/2020/marco/26/Cartilha-Informacoes-Coronavirus.pdf" target="_blank">
                                 <img src="img/servicos/ms_informacoes.png" alt="">
                             </a>
