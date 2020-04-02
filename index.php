@@ -29,7 +29,7 @@
                         <div class="col-xl-12">
                             <div class="slider_text ">
                                 <h3><span>Leitura</span> </h3>
-                                <h4>Selecionamos algumas leituras recomendadas para este período!</h4><br />
+                                <h4>Selecionamos algumas sites com dicas de leituras para este período!</h4><br />
                                 <a href="leitura.php" class="boxed-btn3">Confira</a>
                             </div>
                         </div>
