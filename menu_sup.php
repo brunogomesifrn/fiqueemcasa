@@ -27,7 +27,7 @@
     <meta name="description" content="Fique em Casa">
     <meta property="og:title" content="Fique em Casa" />
     <meta property="og:url" content="https://fiqueemcasa.nic.ifrn.edu.br" />
-    <meta property="og:description" content="Dicas, serviços e telefones úteis para as pessoas que continuam em quarentena na atual pandemia.">
+    <meta property="og:description" content="Dicas, serviços e telefones úteis para auxiliar as pessoas que estão vivendo o período de distanciamento social provocado pela atual pandemia.">
     <meta property="og:image" content="img/midias.png">
     <meta property="og:type" content="website" />
 </head>

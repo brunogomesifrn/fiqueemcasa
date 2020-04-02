@@ -73,7 +73,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_docmed_info">
                         <h3>Fique em Casa</h3>
-                        <p>Diante da quantidade de informações falsas que são compartilhadas nas mídias sociais, alunos do IFRN - Campus Canguaretama desenvolveram o site FIQUE EM CASA com dicas, serviços e telefones úteis para as pessoas que continuam em quarentena na atual pandemia. Alguns serviços disponíveis:</p>
+                        <p>Diante da quantidade de informações falsas que são compartilhadas nas mídias sociais, alunos do IFRN - Campus Canguaretama desenvolveram o site FIQUE EM CASA com dicas, serviços e telefones úteis para auxiliar as pessoas que estão vivendo o período de distanciamento social provocado pela atual pandemia. <!--Alguns serviços disponíveis:</p>
                         <ul>
                             <li> <i class="flaticon-right"></i> Cursos </li>
                             <li> <i class="flaticon-right"></i> Deliveries </li>
@@ -82,7 +82,7 @@
                             <li> <i class="flaticon-right"></i> TV e Streaming </li>
                             <li> <i class="flaticon-right"></i> Telefones </li>
                             <li> <i class="flaticon-right"></i> Vídeos </li>
-                        </ul>
+                        </ul>-->
                     </div>
                 </div>
             </div>
