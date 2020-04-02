@@ -80,7 +80,7 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a href="sars.php">Sars-Cov-2</a></li>
+                                        <li><a href="sars.php">Covid-19</a></li>
                                         <li><a href="orientacoes_ifrn.php">IFRN</a></li>
                                         <li><a href="index.php#serviços">Serviços <i class="fas fa-chevron-down"></i></a>
                                             <ul class="submenu">

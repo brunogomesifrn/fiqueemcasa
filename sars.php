@@ -25,8 +25,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="section_title text-center mb-55">
-                        <h2>Sars-Cov-2</h2>
-                        <p>Saiba mais sobre o vírus que atinge o mundo em 2020!</p>
+                        <h2>Covid-19</h2>
+                        <p>Saiba mais sobre a pandemia que atinge o mundo em 2020!</p>
                         <p><a href="contato.php">Clique aqui</a> para enviar uma sugestão!</p>
                     </div>
                 </div>
@@ -34,6 +34,22 @@
 
             <div class="row" id="servicos">
                 
+
+                <div class="col-xl-4 col-md-6 col-lg-4">
+                    <div class="single_department">
+                        <div class="department_thumb">
+                            <a href="https://covid.lais.ufrn.br/" target="_blank">
+                                <img src="img/servicos/coronavirus_lais.png" alt="">
+                            </a>
+                        </div>
+                        <div class="department_content">
+                            <h3><a href="https://covid.lais.ufrn.br/" target="_blank">Coronavírus RN</a></h3>
+                            <p>Site desenvolvido por pesquisadores do LAIS/UFRN que monitora casos de Covid-19 no RN, apresentando gráficos com dados sobre pacientes infectados, casos suspeitos, descartados e número de mortes.</p>
+                            <a href="https://covid.lais.ufrn.br/" class="learn_more" target="_blank">Acessar</a>
+                        </div>
+                    </div>
+                </div>
+
 
                 <div class="col-xl-4 col-md-6 col-lg-4">
                     <div class="single_department">
