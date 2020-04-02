@@ -42,7 +42,7 @@
                         </div>
                         <div class="department_content">
                             <h3><a href="https://covol19.netlify.com/" target="_blank">Covol-19</a></h3>
-                            <p>Aplicação idealizada por estudantes da UFERSA para auxílio voluntário a idosos. Também é possível o cadastro de voluntários.</p>
+                            <p>Aplicação idealizada por estudantes da UFERSA para auxílio voluntário a idosos. É possível solicitar ajuda, como também realizar o cadastro como voluntário.</p>
                             <a href="https://covol19.netlify.com/" class="learn_more" target="_blank">Acessar</a>
                         </div>
                     </div>
